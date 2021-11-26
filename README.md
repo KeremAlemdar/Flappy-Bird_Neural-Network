@@ -1,6 +1,6 @@
 ### Flappy Bird
 
-Program that learns to play Flappy-Bird by Machine Learning.
+Program that learns to play Flappy Bird by Machine Learning.
 
 ### `npm start`
 
